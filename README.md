@@ -1,6 +1,6 @@
 # FitBuddy - AI Fitness Plan Generator using Gemini Models
 
-Live Demo: https://fernlike-geranium-ecosystem.ngrok-free.dev
+Live Demo: https://drive.google.com/file/d/114IPI7olkcSZZSOueH6MVoKBNgULcJTJ/view?usp=sharing
 Video Demo: Working screenshots available in repository
 
 ## Project Overview
